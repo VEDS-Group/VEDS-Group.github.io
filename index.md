@@ -1,6 +1,6 @@
 ---
+layout: default
 title: Home
-nav_order: 1
 ---
 
 # Welcome to VEDS-Group 👋
@@ -11,4 +11,10 @@ VEDS-Group is committed to providing innovative solutions and comprehensive docu
 
 ## Our Projects
 
-Use the sidebar to navigate to our projects and learn more about what we're building.
+### [CubeCharging ⚡](cubecharging.html)
+Smart charging solution for devices with intelligent power management.
+
+### Navigation
+- [CubeCharging Overview](cubecharging/overview.html)
+- [Installation Guide](cubecharging/installation.html)
+- [Usage Documentation](cubecharging/usage.html)

@@ -1,10 +1,11 @@
 ---
+layout: default
 title: Usage
-parent: CubeCharging
-nav_order: 3
 ---
 
 # Usage Guide
+
+[← Installation](installation.html) | [Back to CubeCharging →](cubecharging.html)
 
 This guide will help you get started with CubeCharging and understand how to use its key features.
 

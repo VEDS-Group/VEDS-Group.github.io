@@ -1,11 +1,8 @@
 title: VEDS-Group
 description: Official documentation for VEDS-Group
-theme: just-the-docs
+theme: minima
 url: https://veds-group.github.io
 baseurl: ""
-
-# Enable hierarchical navigation
-nav_sort: case_insensitive
 
 # GitHub Pages configuration
 plugins:

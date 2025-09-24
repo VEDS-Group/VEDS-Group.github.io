@@ -1,10 +1,11 @@
 ---
+layout: default
 title: Overview
-parent: CubeCharging
-nav_order: 1
 ---
 
 # CubeCharging Overview
+
+[← Back to CubeCharging](cubecharging.html) | [Installation →](installation.html)
 
 CubeCharging is VEDS-Group's innovative smart charging solution designed to optimize device charging efficiency and provide intelligent power management.
 

@@ -1,10 +1,11 @@
 ---
+layout: default
 title: Installation
-parent: CubeCharging
-nav_order: 2
 ---
 
 # Installation
+
+[← Overview](overview.html) | [Usage →](usage.html)
 
 ## Prerequisites
 
