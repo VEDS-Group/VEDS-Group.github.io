@@ -1,4 +1,6 @@
-title: My Organization
-description: Welcome to our official GitHub Pages site!
-theme: minima   # You can also try: cayman, slate, time-machine, leap-day
-show_downloads: false
+title: VEDS-Group
+description: Official documentation for VEDS-Group
+theme: just-the-docs
+
+# Enable hierarchical navigation
+nav_sort: case_insensitive
