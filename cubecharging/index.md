@@ -48,5 +48,15 @@ title: CubeCharging Wiki
       <h4><a href="data-generatie/statistieken.html">Statistieken Genereren 📈</a></h4>
       <p>Excel rapporten genereren voor laadpaal statistieken</p>
     </div>
+    
+    <div class="info-card">
+      <h4><a href="login-registratie/2fa-aanzetten.html">2FA Aanzetten 🔐</a></h4>
+      <p>Two-Factor Authentication instellen voor extra beveiliging</p>
+    </div>
+    
+    <div class="info-card">
+      <h4><a href="login-registratie/2fa-kwijt.html">2FA Kwijt 🆘</a></h4>
+      <p>Helpdesk handleiding voor klanten die hun 2FA code kwijt zijn</p>
+    </div>
   </div>
 </div>
