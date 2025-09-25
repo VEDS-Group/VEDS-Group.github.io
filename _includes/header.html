@@ -1,12 +1,20 @@
 <header class="site-header" role="banner">
   <div class="wrapper">
+    {%- if page.url contains '/cubecharging/' -%}
+    <a class="site-title" rel="author" href="{{ '/cubecharging/' | relative_url }}">Cube Portal</a>
+    {%- else -%}
     <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+    {%- endif -%}
 
     <nav class="site-nav">
       <div class="custom-nav">
+        {%- if page.url contains '/cubecharging/' -%}
+        <a class="page-link" href="{{ '/cubecharging/' | relative_url }}">Home</a>
+        {%- else -%}
         <a class="page-link" href="{{ '/' | relative_url }}">Home</a>
+        {%- endif -%}
         
-
+        {%- if page.url contains '/cubecharging/' -%}
         <!-- Laadpas Management Dropdown -->
         <div class="dropdown">
           <a class="page-link" href="{{ '/cubecharging/laadpas/activeren.html' | relative_url }}">Laadpas 💳</a>
@@ -25,6 +33,7 @@
             <a href="{{ '/cubecharging/laadpaal/gegevens-wijzigen.html' | relative_url }}">Gegevens Wijzigen</a>
           </div>
         </div>
+        {%- endif -%}
       </div>
     </nav>
   </div>
