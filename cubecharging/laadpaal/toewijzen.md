@@ -12,16 +12,10 @@ sidebar: |
     <li><a href="#toewijzingen">Stap 3: Toewijzingen Beheren</a></li>
     <li><a href="#toevoegen">Stap 4: Laadpalen Toevoegen</a></li>
     <li><a href="#opslaan">Stap 5: Wijzigingen Opslaan</a></li>
-    <li><a href="#volgende-stappen">Volgende Stappen</a></li>
   </ul>
 ---
 
 # Laadpaal Toewijzen
-
-<div class="nav-breadcrumb">
-  <a href="../laadpaal.html">← Back to Laadpaal</a> | 
-  <a href="toevoegen.html">Laadpaal Toevoegen →</a>
-</div>
 
 <div class="warning-section" id="waarschuwing">
   <h3>⚠️ Belangrijke Waarschuwing</h3>
@@ -35,7 +29,7 @@ sidebar: |
 
 <div class="content-section" id="groeps-toegang">
   <h3>Voor Groeps-Toegang</h3>
-  <p>Voor het geven van toegang tot meerdere laadpalen zonder eigendom, gebruik je <a href="groepen.html" class="btn">Laadpaal groepen</a></p>
+  <p>Voor het geven van toegang tot meerdere laadpalen zonder eigendom, gebruik je <a href="groepen.html">Laadpaal groepen</a></p>
 </div>
 
 <div class="info-grid" id="methode">
@@ -56,7 +50,7 @@ sidebar: |
     <li><strong>Login:</strong> Log eerst in op het Cube Backend systeem</li>
     <li><strong>Dashboard:</strong> Na login kom je op het Dashboard terecht</li>
     <li><strong>Admin:</strong> Klik op "Admin" in het hoofdmenu (links in de navigatie)</li>
-    <li><strong>Admin Settings:</strong> Klik op "Admin Settings" in het admin submenu</li>
+    <li><strong>Admin Instellingen:</strong> Klik op "Admin Instellingen" in het admin submenu</li>
     <li><strong>User Permissions:</strong> Je komt op de User Permissions tab (standaard actief)</li>
   </ol>
 </div>
@@ -84,7 +78,6 @@ sidebar: |
   <p>Elke gebruiker toont:</p>
   <ul>
     <li>Email adres</li>
-    <li>Rol (USER_LAADPAAL/USER_LAADPAS)</li>
     <li>Partner ID (res_partner_id)</li>
   </ul>
 
@@ -130,12 +123,6 @@ sidebar: |
     <li><strong>Bevestiging:</strong> De laadpaal verschijnt nu in het rechtse paneel</li>
     <li><strong>Meer Toevoegen:</strong> Herhaal het proces voor andere laadpalen</li>
   </ol>
-
-  <h4>Bulk Toewijzing</h4>
-  <ul>
-    <li><strong>Meerdere Selecteren:</strong> Je kunt meerdere laadpalen tegelijk selecteren</li>
-    <li><strong>Load More:</strong> Gebruik de "Laad meer" knop om meer laadpalen te laden</li>
-  </ul>
 </div>
 
 <div class="step-section" id="opslaan">
@@ -150,21 +137,3 @@ sidebar: |
   </ol>
 </div>
 
-<div class="content-section" id="volgende-stappen">
-  <h2>Volgende Stappen</h2>
-  <p>Na het toewijzen van laadpalen:</p>
-  <div class="info-grid">
-    <div class="info-card">
-      <a href="gegevens-wijzigen.html" class="btn">Laadpaal Gegevens Wijzigen</a>
-      <p>Pas laadpaal informatie aan</p>
-    </div>
-    <div class="info-card">
-      <a href="groepen.html" class="btn">Laadpaal Groepen</a>
-      <p>Stel groeps-toegang in</p>
-    </div>
-    <div class="info-card">
-      <a href="toevoegen.html" class="btn">Laadpaal Toevoegen</a>
-      <p>Voeg nieuwe laadpalen toe</p>
-    </div>
-  </div>
-</div>

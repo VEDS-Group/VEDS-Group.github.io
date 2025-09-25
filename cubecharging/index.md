@@ -38,5 +38,15 @@ title: CubeCharging Wiki
       <h4><a href="laadpaal/gegevens-wijzigen.html">Gegevens Wijzigen ✏️</a></h4>
       <p>Bestaande laadpaal informatie aanpassen</p>
     </div>
+    
+    <div class="info-card">
+      <h4><a href="transacties/corrigeren.html">Transactie Corrigeren 📊</a></h4>
+      <p>Foutieve transactie gegevens corrigeren</p>
+    </div>
+    
+    <div class="info-card">
+      <h4><a href="data-generatie/statistieken.html">Statistieken Genereren 📈</a></h4>
+      <p>Excel rapporten genereren voor laadpaal statistieken</p>
+    </div>
   </div>
 </div>

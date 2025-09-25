@@ -10,7 +10,6 @@ sidebar: |
     <li><a href="#bankrekening">Stap 3: Bankrekening & Machtiging</a></li>
     <li><a href="#handtekening">Stap 4: Handtekening</a></li>
     <li><a href="#activatie">Stap 5: Activatie Voltooien</a></li>
-    <li><a href="#volgende-stappen">Volgende Stappen</a></li>
   </ul>
 ---
 
@@ -215,20 +214,5 @@ sidebar: |
       <li><strong>Reset:</strong> Alle velden worden leeggemaakt</li>
       <li><strong>Nieuwe Activatie:</strong> Je kunt direct een nieuwe laadpas activeren</li>
     </ul>
-  </div>
-</div>
-
-<div class="content-section" id="volgende-stappen">
-  <h2>Volgende Stappen</h2>
-  <p>Na het activeren van een laadpas:</p>
-  <div class="info-grid">
-    <div class="info-card">
-      <a href="../laadpaal/toewijzen.html" class="btn">Laadpaal Toewijzen</a>
-      <p>Wijs laadpalen toe aan gebruikers</p>
-    </div>
-    <div class="info-card">
-      <a href="../laadpaal/groepen.html" class="btn">Laadpaal Groepen</a>
-      <p>Stel groeps-toegang in</p>
-    </div>
   </div>
 </div>
