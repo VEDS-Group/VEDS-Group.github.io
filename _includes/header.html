@@ -1,0 +1,31 @@
+<header class="site-header" role="banner">
+  <div class="wrapper">
+    <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+
+    <nav class="site-nav">
+      <div class="custom-nav">
+        <a class="page-link" href="{{ '/' | relative_url }}">Home</a>
+        
+
+        <!-- Laadpas Management Dropdown -->
+        <div class="dropdown">
+          <a class="page-link" href="{{ '/cubecharging/laadpas/activeren.html' | relative_url }}">Laadpas 💳</a>
+          <div class="dropdown-content">
+            <a href="{{ '/cubecharging/laadpas/activeren.html' | relative_url }}">Laadpas Activeren</a>
+          </div>
+        </div>
+
+        <!-- Laadpaal Management Dropdown -->
+        <div class="dropdown">
+          <a class="page-link" href="{{ '/cubecharging/laadpaal/toewijzen.html' | relative_url }}">Laadpaal Management 🔌</a>
+          <div class="dropdown-content">
+            <a href="{{ '/cubecharging/laadpaal/toewijzen.html' | relative_url }}">Laadpaal Toewijzen</a>
+            <a href="{{ '/cubecharging/laadpaal/toevoegen.html' | relative_url }}">Laadpaal Toevoegen</a>
+            <a href="{{ '/cubecharging/laadpaal/groepen.html' | relative_url }}">Laadpaal Groepen</a>
+            <a href="{{ '/cubecharging/laadpaal/gegevens-wijzigen.html' | relative_url }}">Gegevens Wijzigen</a>
+          </div>
+        </div>
+      </div>
+    </nav>
+  </div>
+</header>

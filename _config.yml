@@ -1,14 +1,31 @@
-title: VEDS-Group
-description: Official documentation for VEDS-Group
+title: Cube Backend
+description: Official documentation for Cube Backend
 theme: minima
 url: https://veds-group.github.io
 baseurl: ""
+
+# Custom navigation
+header_pages:
+  - index.md
+  - cubecharging/index.md
+  - cubecharging/laadpas.md
+  - cubecharging/laadpaal.md
+  - cubecharging/laadpas/activeren.md
+  - cubecharging/laadpaal/toewijzen.md
+  - cubecharging/laadpaal/toevoegen.md
+  - cubecharging/laadpaal/groepen.md
+  - cubecharging/laadpaal/gegevens-wijzigen.md
 
 # GitHub Pages configuration
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+
+# Sass configuration
+sass:
+  style: compressed
+  sass_dir: _sass
 
 # Exclude files from processing
 exclude:

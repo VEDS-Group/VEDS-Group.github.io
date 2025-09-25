@@ -1,0 +1,13 @@
+{%- if site.social.links -%}
+  <ul class="social-media-list">
+    {%- for link in site.social.links -%}
+      {%- assign url = link[1] -%}
+      {%- assign platform = link[0] -%}
+      <li>
+        <a href="{{ url }}" target="_blank" rel="noopener noreferrer">
+          <span class="username">{{ platform }}</span>
+        </a>
+      </li>
+    {%- endfor -%}
+  </ul>
+{%- endif -%}
