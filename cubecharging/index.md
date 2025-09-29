@@ -58,5 +58,25 @@ title: CubeCharging Wiki
       <h4><a href="login-registratie/2fa-kwijt.html">2FA Kwijt 🆘</a></h4>
       <p>Helpdesk handleiding voor klanten die hun 2FA code kwijt zijn</p>
     </div>
+    
+    <div class="info-card">
+      <h4><a href="login-registratie/email-wijzigen.html">Email Wijzigen ✉️</a></h4>
+      <p>Email adres wijzigen via profiel of admin settings</p>
+    </div>
+    
+    <div class="info-card">
+      <h4><a href="overig/helpdesk.html">Helpdesk Pagina 🔧</a></h4>
+      <p>Centrale hub voor monitoren en beheren van systeemproblemen</p>
+    </div>
+    
+    <div class="info-card">
+      <h4><a href="overig/meld-issue.html">Meld een Issue 🐛</a></h4>
+      <p>Bekijk bestaande GitHub issues en rapporteer nieuwe problemen</p>
+    </div>
+    
+    <div class="info-card">
+      <h4><a href="overig/registratie-mail.html">Registratie Mail Versturen 📧</a></h4>
+      <p>Helpdesk handleiding voor het versturen van registratie mails</p>
+    </div>
   </div>
 </div>
