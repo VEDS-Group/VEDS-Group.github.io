@@ -11,6 +11,22 @@ title: CubeCharging Wiki
 </div>
 
 <div class="content-section">
+  <h2>Explain Videos</h2>
+  
+  <div class="info-grid">
+    <div class="info-card">
+      <h4><a href="login-registratie/onboarding.html">Onboarding Proces 🚀</a></h4>
+      <p>Complete handleiding voor het onboarding proces met video demonstratie</p>
+    </div>
+    
+    <div class="info-card">
+      <h4><a href="overig/external-helpdesk.html">External Helpdesk 📋</a></h4>
+      <p>Uitgebreide handleiding voor de External Helpdesk met video demonstratie</p>
+    </div>
+  </div>
+</div>
+
+<div class="content-section">
   <h2>Beschikbare Handleidingen</h2>
   
   <div class="info-grid">
@@ -65,18 +81,8 @@ title: CubeCharging Wiki
     </div>
     
     <div class="info-card">
-      <h4><a href="login-registratie/onboarding.html">Onboarding Proces 🚀</a></h4>
-      <p>Complete handleiding voor het onboarding proces met video demonstratie</p>
-    </div>
-    
-    <div class="info-card">
       <h4><a href="overig/helpdesk.html">Helpdesk Pagina 🔧</a></h4>
       <p>Centrale hub voor monitoren en beheren van systeemproblemen</p>
-    </div>
-    
-    <div class="info-card">
-      <h4><a href="overig/external-helpdesk.html">External Helpdesk 📋</a></h4>
-      <p>Uitgebreide handleiding voor de External Helpdesk met video demonstratie</p>
     </div>
     
     <div class="info-card">
