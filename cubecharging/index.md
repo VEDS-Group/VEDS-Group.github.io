@@ -6,11 +6,6 @@ title: CubeCharging Wiki
 # CubeCharging Wiki 📚
 
 <div class="content-section">
-  <h2>Welkom bij de CubeCharging Wiki</h2>
-  <p>Deze wiki helpt je om het nieuwe CubeCharging portaal te gebruiken. Hier vind je alle handleidingen en documentatie die je nodig hebt om het platform optimaal te benutten.</p>
-</div>
-
-<div class="content-section">
   <h2>Explain Videos</h2>
   
   <div class="info-grid">
@@ -24,6 +19,11 @@ title: CubeCharging Wiki
       <p>Uitgebreide handleiding voor de External Helpdesk met video demonstratie</p>
     </div>
   </div>
+</div>
+
+<div class="content-section">
+  <h2>Welkom bij de CubeCharging Wiki</h2>
+  <p>Deze wiki helpt je om het nieuwe CubeCharging portaal te gebruiken. Hier vind je alle handleidingen en documentatie die je nodig hebt om het platform optimaal te benutten.</p>
 </div>
 
 <div class="content-section">
